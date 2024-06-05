@@ -1,0 +1,22 @@
+#cabecalho{
+    display: flex;
+    height: 15vh;
+    background-color: brown;
+    justify-content: space-between;
+}
+#imgLogo{
+    width: 100px;
+}
+#imgLogin{
+    width: 100px;
+}
+#lista{
+    display: flex;
+    width: 40%;
+    li {
+        list-style: none;
+        font-size: 30px;
+        font-weight: bold;
+        margin: 0 15px;
+    }
+}
